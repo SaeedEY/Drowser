@@ -1,4 +1,1 @@
-*.php linguist-language=PHP
-*.py linguist-language=Python
-*.exe linguist-language=C++
-*.js linguist-language=javascript
+*.php linguist-language=php
