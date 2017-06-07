@@ -10,7 +10,7 @@
 	}
 
 	if(isset($_REQUEST['f']) and $_REQUEST['f'] == 'sshot'){
-		$pic = file_get_contents('http://localhost/gui/v3/py/index.py?f=sshot&v='.md5(time()).'.jpg');
+		$pic = file_get_contents($_SERVER['REQUEST_SCHEME']."://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'].'/py/index.py?f=sshot&v='.md5(time()).'.jpg');
 		die($pic);
 	}
 	if(isset($_REQUEST) and count($_REQUEST) >= 2){
@@ -22,8 +22,6 @@
 		}
 		file_put_contents('py/f', $request);
 		 die("request Was ".$request);
-		//$lo = file_get_contents('http://localhost/gui/v3/py/index.py'.$request);
-		//die($lo);
 	}
 	?>
 <!DOCTYPE html>
