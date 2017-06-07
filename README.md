@@ -31,4 +31,4 @@
 <h6><p>if You had Stuck into Any kind of Problem , You Can Contact me from <a href='https://saeedey.com/?lang=en#ContactMe'>Here</a>.</h6>
 <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp+ Probably you my ask "Whats the Point Dude?" :P<br>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- Here is the Answer : there is no Point , Just Code For Fun :)
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp- There is no Point My Dear, Just For Fun :)
