@@ -1,5 +1,6 @@
 <h2># Drowser</h2>
 <h5>What's the Drowser?</h5>a Web Application that Let you Manage Your Desktop [<b>Preferably in Windows VPS</b>] from your browser in special conditions.<br>
+<i> This is just a demo and have allot of Bugs :) ,Please do not expect it to do MAGIC for you :) :P </i><br>
 <h3>Requirment:</h3>
 <ul>
 <li>Windows Operation System</li>
