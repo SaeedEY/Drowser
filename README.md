@@ -18,6 +18,7 @@
 <li>and Support <b><a href='http://php.net'>PHP</a></b> and <b><a href='https://www.w3.org/CGI/'>CGI</a></b></li>
 <li>Configure it to Support <b>CGI</b> and <b>Python</b> language pages. <a href='https://www.google.com/search?q=Configure CGI and Python in Wamp'>help</a></li>
 </ol>
+</ul>
 <hr>
 <h3>how to Launch it !</h3>
 <ol>
